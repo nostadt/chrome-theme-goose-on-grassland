@@ -1,7 +1,7 @@
 # Goose on grassland
 
 This is a simple theme for google chrome. You can grab it
-[here](https://chrome.google.com/webstore/detail/goose-on-grassland/bgkebiblmhpplhdcheodnappdccappeb?hl=en&gl=EN).
+[here](https://chrome.google.com/webstore/detail/goose-on-grassland/bgkebiblmhpplhdcheodnappdccappeb?gl=DE&hl=en).
 
 ## preview
 
