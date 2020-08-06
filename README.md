@@ -1,7 +1,9 @@
+[![Chrome Web Store](https://img.shields.io/chrome-web-store/users/bgkebiblmhpplhdcheodnappdccappeb)](https://chrome.google.com/webstore/detail/goose-on-grassland/bgkebiblmhpplhdcheodnappdccappeb)
+
 # Goose on grassland
 
 This is a simple theme for google chrome. You can grab it
-[here](https://chrome.google.com/webstore/detail/goose-on-grassland/bgkebiblmhpplhdcheodnappdccappeb?gl=DE&hl=en).
+[here](https://chrome.google.com/webstore/detail/goose-on-grassland/bgkebiblmhpplhdcheodnappdccappeb).
 
 ## preview
 
