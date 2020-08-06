@@ -6,11 +6,11 @@
 This is a simple theme for google chrome. You can grab it
 [here](https://chrome.google.com/webstore/detail/goose-on-grassland/bgkebiblmhpplhdcheodnappdccappeb).
 
-## preview
+## Preview
 
 ![alt text](images/preview-1280x800.png)
 
-## license
+## License
 
 It's licensed under MIT.
 
