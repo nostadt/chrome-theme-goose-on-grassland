@@ -1,4 +1,5 @@
 [![Chrome Web Store](https://img.shields.io/chrome-web-store/users/bgkebiblmhpplhdcheodnappdccappeb)](https://chrome.google.com/webstore/detail/goose-on-grassland/bgkebiblmhpplhdcheodnappdccappeb)
+![GitHub](https://img.shields.io/github/license/amartinno1/chrome-theme-goose-on-grassland)
 
 # Goose on grassland
 
