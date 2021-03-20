@@ -3,7 +3,7 @@
 
 # Goose on grassland
 
-Goose on grassland is a Theme for the Browser Google Chrome which comes with no costs.
+Goose on grassland is a theme for the Browser Google Chrome which comes with no costs.
 You can install it from the
 [official webstore](https://chrome.google.com/webstore/detail/goose-on-grassland/bgkebiblmhpplhdcheodnappdccappeb).
 
@@ -15,4 +15,4 @@ a new issue I kindly ask you to check posted issues yet to avoid duplicates.
 
 ## My other themes
 
-[Here](https://github.com/AMartinNo1?tab=repositories&q=chrome-theme&type=source&language=) you find more of my Google Chrome Themes.
+[Here](https://github.com/AMartinNo1?tab=repositories&q=chrome-theme&type=source&language=) you find more of my Google Chrome themes.
